@@ -24,7 +24,7 @@ ViewTooltip
 [![](https://jitpack.io/v/Gundabadec/ViewTooltip.svg)](https://jitpack.io/#Gundabadec/ViewTooltip)
 ```java
 dependencies {
-    compile 'com.github.florent37:viewtooltip:(last version)'
+    implementation 'com.github.Gundabadec:ViewTooltip:(last version)'
 }
 ```
 

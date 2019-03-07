@@ -21,10 +21,10 @@ ViewTooltip
 
 <a href='https://ko-fi.com/A160LCC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-[ ![Download](https://api.bintray.com/packages/florent37/maven/viewtooltip/images/download.svg) ](https://bintray.com/florent37/maven/viewtooltip/_latestVersion)
+[![](https://jitpack.io/v/Gundabadec/ViewTooltip.svg)](https://jitpack.io/#Gundabadec/ViewTooltip)
 ```java
 dependencies {
-    compile 'com.github.florent37:viewtooltip:(last version)'
+    implementation 'com.github.Gundabadec:ViewTooltip:(last version)'
 }
 ```
 
